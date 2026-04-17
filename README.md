@@ -157,7 +157,6 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 <img width="1920" height="1080" alt="Screenshot (637)" src="https://github.com/user-attachments/assets/d5b4c970-2dbc-4e5e-b22e-7312dc25e94f" />
 
-
 * Navigasi ulang:
 
   * **Home**
@@ -174,6 +173,206 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 * Copyright:
   **© 2026 Teras Alam Ulin**
+
+---
+##ADMIN##
+
+## **A). Halaman Login Admin**
+
+<img width="1920" height="1080" alt="Login Admin" src="https://github.com/user-attachments/assets/login-admin.png" />
+
+* Menampilkan **form login admin**
+* Input berupa **username dan password**
+* Terdapat tombol **Login**
+* Terdapat tombol **Kembali ke Website**
+
+---
+
+## **B). Dashboard Admin**
+
+<img width="1920" height="1080" alt="Dashboard Admin" src="https://github.com/user-attachments/assets/dashboard-admin.png" />
+
+* Menampilkan **ringkasan data**
+* Total:
+
+  * **Fasilitas**
+  * **Galeri**
+  * **Menu**
+  * **Testimoni**
+* Sidebar navigasi admin tersedia
+
+---
+
+## **C). Halaman Data Fasilitas**
+
+<img width="1920" height="1080" alt="Data Fasilitas" src="https://github.com/user-attachments/assets/data-fasilitas.png" />
+
+* Menampilkan **daftar fasilitas**
+* Terdapat tombol:
+
+  * **Tambah**
+  * **Edit**
+  * **Hapus**
+* Data terdiri dari:
+
+  * Nama
+  * Deskripsi
+  * Gambar
+
+---
+
+## **D). Halaman Tambah Fasilitas**
+
+<img width="1920" height="1080" alt="Tambah Fasilitas" src="https://github.com/user-attachments/assets/tambah-fasilitas.png" />
+
+* Form input:
+
+  * **Nama fasilitas**
+  * **Deskripsi**
+  * **Upload gambar**
+* Tombol:
+
+  * **Simpan**
+  * **Kembali**
+
+---
+
+## **E). Halaman Edit Fasilitas**
+
+<img width="1920" height="1080" alt="Edit Fasilitas" src="https://github.com/user-attachments/assets/edit-fasilitas.png" />
+
+* Mengubah data fasilitas
+* Menampilkan **gambar saat ini**
+* Bisa **ganti gambar**
+* Tombol:
+
+  * **Update**
+  * **Kembali**
+
+---
+
+## **F). Halaman Data Galeri**
+
+<img width="1920" height="1080" alt="Data Galeri" src="https://github.com/user-attachments/assets/data-galeri.png" />
+
+* Menampilkan daftar **galeri**
+* Terdapat:
+
+  * **Tambah**
+  * **Edit**
+  * **Hapus**
+
+---
+
+## **G). Halaman Tambah Galeri**
+
+<img width="1920" height="1080" alt="Tambah Galeri" src="https://github.com/user-attachments/assets/tambah-galeri.png" />
+
+* Upload gambar
+* Input keterangan
+* Tombol:
+
+  * **Simpan**
+  * **Kembali**
+
+---
+
+## **H). Halaman Edit Galeri**
+
+<img width="1920" height="1080" alt="Edit Galeri" src="https://github.com/user-attachments/assets/edit-galeri.png" />
+
+* Mengubah data galeri
+* Bisa mengganti gambar
+* Tombol:
+
+  * **Update**
+  * **Kembali**
+
+---
+
+## **I). Halaman Data Menu**
+
+<img width="1920" height="1080" alt="Data Menu" src="https://github.com/user-attachments/assets/data-menu.png" />
+
+* Menampilkan daftar menu
+* Data:
+
+  * Nama
+  * Deskripsi
+  * Harga
+  * Gambar
+* Tombol:
+
+  * **Edit**
+  * **Hapus**
+
+---
+
+## **J). Halaman Tambah Menu**
+
+<img width="1920" height="1080" alt="Tambah Menu" src="https://github.com/user-attachments/assets/tambah-menu.png" />
+
+* Input:
+
+  * Nama menu
+  * Deskripsi
+  * Harga
+  * Gambar
+* Tombol:
+
+  * **Simpan**
+  * **Kembali**
+
+---
+
+## **K). Halaman Edit Menu**
+
+<img width="1920" height="1080" alt="Edit Menu" src="https://github.com/user-attachments/assets/edit-menu.png" />
+
+* Mengubah data menu
+* Menampilkan gambar saat ini
+* Tombol:
+
+  * **Update**
+  * **Kembali**
+
+---
+
+## **L). Halaman Data Testimoni**
+
+<img width="1920" height="1080" alt="Data Testimoni" src="https://github.com/user-attachments/assets/data-testimoni.png" />
+
+* Menampilkan daftar testimoni
+* Data:
+
+  * Nama
+  * Komentar
+  * Rating
+  * Status
+* Status:
+
+  * **Tampil**
+  * **Pending**
+
+---
+
+## **M). Halaman Edit Testimoni**
+
+<img width="1920" height="1080" alt="Edit Testimoni" src="https://github.com/user-attachments/assets/edit-testimoni.png" />
+
+* Mengubah:
+
+  * Nama
+  * Komentar
+  * Rating
+  * Status
+* Tombol:
+
+  * **Simpan**
+  * **Kembali**
+
+---
+
 
 ---
 
