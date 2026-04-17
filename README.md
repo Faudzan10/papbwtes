@@ -23,7 +23,7 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **a). Halaman Landing Page**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (626)" src="https://github.com/user-attachments/assets/c90057da-8aae-445d-b2ad-2f6c398bc800" />
 
 
 * Menampilkan **hero section** sebagai tampilan utama.
@@ -34,7 +34,8 @@ assets/img/
 
 ## **b). Halaman Tentang**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (627)" src="https://github.com/user-attachments/assets/55d9f772-2653-4483-a5c2-5f61c7e6d46d" />
+
 
 
 * Menampilkan **informasi lengkap** mengenai Teras Alam Ulin.
@@ -46,7 +47,7 @@ assets/img/
 
 ## **c). Halaman Detail Informasi**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (628)" src="https://github.com/user-attachments/assets/1407b930-74c7-4d7d-8ff0-7b0bfda73bef" />
 
 
 * Ditampilkan dalam bentuk **popup/modal**.
@@ -57,7 +58,7 @@ assets/img/
 
 ## **d). Halaman Fasilitas**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (629)" src="https://github.com/user-attachments/assets/bdabb6a7-1861-4431-8acf-786015cda3ec" />
 
 
 * Menampilkan fasilitas:
@@ -72,7 +73,7 @@ assets/img/
 
 ## **e). Halaman Galeri**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (630)" src="https://github.com/user-attachments/assets/51e29893-8187-4036-9aa8-93bfdf1d642b" />
 
 
 
@@ -83,7 +84,7 @@ assets/img/
 
 ## **f). Halaman Testimoni**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (631)" src="https://github.com/user-attachments/assets/7fcbeb4d-88d2-48a6-ae7c-cedf79a887be" />
 
 
 
@@ -95,7 +96,7 @@ assets/img/
 
 ## **g). Halaman Form Ulasan**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (632)" src="https://github.com/user-attachments/assets/ee4516dc-627a-4968-b2e2-6ba8713ba7ca" />
 
 
 
@@ -110,7 +111,7 @@ assets/img/
 
 ## **h). Halaman Menu**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (634)" src="https://github.com/user-attachments/assets/bc5704eb-40f5-4a07-a97a-a9a07d51049c" />
 
 
 
@@ -126,7 +127,7 @@ assets/img/
 
 ## **i). Halaman Reservasi**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (635)" src="https://github.com/user-attachments/assets/5cf9fe92-c0af-45c1-9537-00c737ee7235" />
 
 
 
@@ -142,7 +143,7 @@ assets/img/
 
 ## **j). Halaman Lokasi & Jam Operasional**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (636)" src="https://github.com/user-attachments/assets/f3a62bd7-18d4-4df6-9892-9b7f7f0e6988" />
 
 
 * Menampilkan:
@@ -155,7 +156,7 @@ assets/img/
 
 ## **k). Halaman Admin**
 
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (637)" src="https://github.com/user-attachments/assets/417e6776-02ed-4f62-b958-c168d6ea790c" />
 
 
 * Admin dapat melakukan:
