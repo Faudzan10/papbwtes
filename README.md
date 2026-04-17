@@ -23,6 +23,9 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **a). Halaman Landing Page**
 
+assets/img/
+
+
 * Menampilkan **hero section** sebagai tampilan utama.
 * Terdapat tombol **Reservasi Sekarang** dan **Lihat Fasilitas**.
 * Navigasi terdiri dari **Home, Tentang, Fasilitas, Galeri, Menu, dan Kontak**.
@@ -30,6 +33,9 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 ---
 
 ## **b). Halaman Tentang**
+
+assets/img/
+
 
 * Menampilkan **informasi lengkap** mengenai Teras Alam Ulin.
 * Menjelaskan **konsep wisata keluarga dengan suasana alam**.
@@ -40,6 +46,9 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **c). Halaman Detail Informasi**
 
+assets/img/
+
+
 * Ditampilkan dalam bentuk **popup/modal**.
 * Berisi **alamat lengkap, nomor kontak, dan Google Maps**.
 * Menjelaskan **sejarah dan konsep tempat wisata**.
@@ -47,6 +56,9 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 ---
 
 ## **d). Halaman Fasilitas**
+
+assets/img/
+
 
 * Menampilkan fasilitas:
 
@@ -60,12 +72,20 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **e). Halaman Galeri**
 
+assets/img/
+
+
+
 * Menampilkan **galeri foto dalam bentuk slider**.
 * Memperlihatkan **suasana tempat wisata**.
 
 ---
 
 ## **f). Halaman Testimoni**
+
+assets/img/
+
+
 
 * Menampilkan **ulasan pengunjung**.
 * Menampilkan **rating bintang**.
@@ -74,6 +94,10 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 ---
 
 ## **g). Halaman Form Ulasan**
+
+assets/img/
+
+
 
 * Pengunjung dapat mengisi:
 
@@ -85,6 +109,10 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 ---
 
 ## **h). Halaman Menu**
+
+assets/img/
+
+
 
 * Menampilkan daftar menu:
 
@@ -98,6 +126,10 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **i). Halaman Reservasi**
 
+assets/img/
+
+
+
 * Form input:
 
   * **Nama**
@@ -110,6 +142,9 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **j). Halaman Lokasi & Jam Operasional**
 
+assets/img/
+
+
 * Menampilkan:
 
   * **Alamat lengkap**
@@ -119,6 +154,9 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 ---
 
 ## **k). Halaman Admin**
+
+assets/img/
+
 
 * Admin dapat melakukan:
 
@@ -135,6 +173,9 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 ---
 
 ## **l). Footer & Social Media**
+
+assets/img/
+
 
 * Navigasi ulang:
 
