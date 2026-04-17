@@ -175,11 +175,12 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
   **© 2026 Teras Alam Ulin**
 
 ---
-##ADMIN##
+**ADMIN**
 
 ## **A). Halaman Login Admin**
 
-<img width="1920" height="1080" alt="Login Admin" src="https://github.com/user-attachments/assets/login-admin.png" />
+<img width="1920" height="1080" alt="Screenshot (639)" src="https://github.com/user-attachments/assets/c7a7216f-5272-4df2-959d-75ba3655a658" />
+
 
 * Menampilkan **form login admin**
 * Input berupa **username dan password**
@@ -190,7 +191,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **B). Dashboard Admin**
 
-<img width="1920" height="1080" alt="Dashboard Admin" src="https://github.com/user-attachments/assets/dashboard-admin.png" />
+<img width="1920" height="1080" alt="Screenshot (640)" src="https://github.com/user-attachments/assets/89a4961f-4d02-4a4a-a05d-73714aed763e" />
+
 
 * Menampilkan **ringkasan data**
 * Total:
@@ -205,7 +207,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **C). Halaman Data Fasilitas**
 
-<img width="1920" height="1080" alt="Data Fasilitas" src="https://github.com/user-attachments/assets/data-fasilitas.png" />
+<img width="1920" height="1080" alt="Screenshot (641)" src="https://github.com/user-attachments/assets/c82c63e3-1e90-491d-968d-c69fb4aefca0" />
+
 
 * Menampilkan **daftar fasilitas**
 * Terdapat tombol:
@@ -223,7 +226,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **D). Halaman Tambah Fasilitas**
 
-<img width="1920" height="1080" alt="Tambah Fasilitas" src="https://github.com/user-attachments/assets/tambah-fasilitas.png" />
+<img width="1920" height="1080" alt="Screenshot (642)" src="https://github.com/user-attachments/assets/77e52cc0-1564-4a95-91b0-51840d24bdc4" />
+
 
 * Form input:
 
@@ -239,7 +243,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **E). Halaman Edit Fasilitas**
 
-<img width="1920" height="1080" alt="Edit Fasilitas" src="https://github.com/user-attachments/assets/edit-fasilitas.png" />
+<img width="1920" height="1080" alt="Screenshot (643)" src="https://github.com/user-attachments/assets/cd2f522b-b945-4b19-bab6-54e600076d1a" />
+
 
 * Mengubah data fasilitas
 * Menampilkan **gambar saat ini**
@@ -253,7 +258,7 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **F). Halaman Data Galeri**
 
-<img width="1920" height="1080" alt="Data Galeri" src="https://github.com/user-attachments/assets/data-galeri.png" />
+<img width="1920" height="1080" alt="Screenshot (644)" src="https://github.com/user-attachments/assets/726b5822-1fd0-4714-8ce3-85444f65e34a" />
 
 * Menampilkan daftar **galeri**
 * Terdapat:
@@ -266,7 +271,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **G). Halaman Tambah Galeri**
 
-<img width="1920" height="1080" alt="Tambah Galeri" src="https://github.com/user-attachments/assets/tambah-galeri.png" />
+<img width="1920" height="1080" alt="Screenshot (645)" src="https://github.com/user-attachments/assets/c682c38a-c9e1-4ee1-8072-f99bc99b805a" />
+
 
 * Upload gambar
 * Input keterangan
@@ -279,7 +285,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **H). Halaman Edit Galeri**
 
-<img width="1920" height="1080" alt="Edit Galeri" src="https://github.com/user-attachments/assets/edit-galeri.png" />
+<img width="1920" height="1080" alt="Screenshot (646)" src="https://github.com/user-attachments/assets/765c6d6b-74aa-4c33-a788-2bd7800f2ebc" />
+
 
 * Mengubah data galeri
 * Bisa mengganti gambar
@@ -292,7 +299,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **I). Halaman Data Menu**
 
-<img width="1920" height="1080" alt="Data Menu" src="https://github.com/user-attachments/assets/data-menu.png" />
+<img width="1920" height="1080" alt="Screenshot (647)" src="https://github.com/user-attachments/assets/4fcd9720-93f5-4acf-a28f-522690738a35" />
+
 
 * Menampilkan daftar menu
 * Data:
@@ -310,7 +318,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **J). Halaman Tambah Menu**
 
-<img width="1920" height="1080" alt="Tambah Menu" src="https://github.com/user-attachments/assets/tambah-menu.png" />
+<img width="1920" height="1080" alt="Screenshot (648)" src="https://github.com/user-attachments/assets/12e54c7e-1fd9-4597-bb86-57e02bad3010" />
+
 
 * Input:
 
@@ -327,7 +336,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **K). Halaman Edit Menu**
 
-<img width="1920" height="1080" alt="Edit Menu" src="https://github.com/user-attachments/assets/edit-menu.png" />
+<img width="1920" height="1080" alt="Screenshot (649)" src="https://github.com/user-attachments/assets/3c617015-436c-45c1-9469-cc2da651ddbe" />
+
 
 * Mengubah data menu
 * Menampilkan gambar saat ini
@@ -340,7 +350,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **L). Halaman Data Testimoni**
 
-<img width="1920" height="1080" alt="Data Testimoni" src="https://github.com/user-attachments/assets/data-testimoni.png" />
+<img width="1920" height="1080" alt="Screenshot (650)" src="https://github.com/user-attachments/assets/caf5965b-2ece-482b-a3bb-b58f600d5340" />
+
 
 * Menampilkan daftar testimoni
 * Data:
@@ -358,7 +369,8 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
 ## **M). Halaman Edit Testimoni**
 
-<img width="1920" height="1080" alt="Edit Testimoni" src="https://github.com/user-attachments/assets/edit-testimoni.png" />
+<img width="1920" height="1080" alt="Screenshot (651)" src="https://github.com/user-attachments/assets/2529e7ed-78de-4361-807b-f2df4cb3e875" />
+
 
 * Mengubah:
 
@@ -370,6 +382,11 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
 
   * **Simpan**
   * **Kembali**
+
+
+TAMPILAN JIKA TESTIMONI DITAMPILKAN
+
+<img width="1920" height="1080" alt="Screenshot (652)" src="https://github.com/user-attachments/assets/5f749391-74de-4585-9041-79b22081cbde" />
 
 ---
 
