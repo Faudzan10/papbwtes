@@ -152,30 +152,10 @@ Selain itu, sistem ini juga dilengkapi dengan **halaman admin** yang memungkinka
   * **Jam operasional**
 * Terintegrasi dengan **Google Maps**.
 
----
 
-## **k). Halaman Admin**
+## **K). Footer & Social Media**
 
-<img width="1920" height="1080" alt="Screenshot (637)" src="https://github.com/user-attachments/assets/417e6776-02ed-4f62-b958-c168d6ea790c" />
-
-
-* Admin dapat melakukan:
-
-  * **Login & Logout**
-  * **Mengelola data**
-* Fitur:
-
-  * **CRUD (Create, Read, Update, Delete)**
-* Mengatur status:
-
-  * **Tampil**
-  * **Tidak tampil (pending)**
-
----
-
-## **l). Footer & Social Media**
-
-assets/img/
+<img width="1920" height="1080" alt="Screenshot (637)" src="https://github.com/user-attachments/assets/d5b4c970-2dbc-4e5e-b22e-7312dc25e94f" />
 
 
 * Navigasi ulang:
